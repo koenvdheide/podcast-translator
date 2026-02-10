@@ -30,7 +30,7 @@ setup(
     description="A FREE pipeline for transcribing and translating audio files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/podcast-translator",  # TODO: Replace with your repo URL
+    url="https://github.com/koenvdheide/podcast-translator",
     packages=find_packages(),
     py_modules=['podcast_translator', 'check_requirements'],
     classifiers=[
@@ -73,8 +73,8 @@ setup(
         'deepl', 'audio', 'speech-to-text', 'nlp', 'diarization'
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/podcast-translator/issues",
-        "Documentation": "https://github.com/yourusername/podcast-translator#readme",
-        "Source": "https://github.com/yourusername/podcast-translator",
+        "Bug Reports": "https://github.com/koenvdheide/podcast-translator/issues",
+        "Documentation": "https://github.com/koenvdheide/podcast-translator#readme",
+        "Source": "https://github.com/koenvdheide/podcast-translator",
     },
 )

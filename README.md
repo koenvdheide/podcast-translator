@@ -11,7 +11,7 @@ A powerful, **FREE** Python pipeline for transcribing and translating audio file
 - **Audio Transcription** - Uses OpenAI Whisper (local or API) for high-quality speech-to-text
 - **Multi-Language Translation** - Powered by DeepL's free API (500k chars/month)
 - **Speaker Diarization** - Identifies and labels different speakers using Pyannote
--  **Timestamps** - Adds timestamps to transcripts for easy navigation
+- **Timestamps** - Adds timestamps to transcripts for easy navigation
 - **Smart Formatting** - Automatically formats transcripts for readability
 - **100% Free** - Uses only free tiers and open-source tools
 - **Resume Capability** - Skips completed steps if pipeline is interrupted
@@ -70,9 +70,13 @@ python podcast_translator.py "audio.mp3" \
 
 ## Documentation
 
-- **[Quick Start Guide](QUICK_START.md)** - Get started in 5 minutes
-- **[Full Documentation](README_podcast_translator.md)** - Comprehensive guide with all features
-- **[Command-Line Options](README_podcast_translator.md#command-line-options)** - All available flags and options
+For detailed command-line options, run:
+
+```bash
+python podcast_translator.py --help
+```
+
+See the [Quick Start](#-quick-start) section above for usage examples.
 
 ## Use Cases
 
@@ -123,6 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
--  Check the [documentation](README_podcast_translator.md)
--  Report bugs via [GitHub Issues](https://github.com/yourusername/podcast-translator/issues)
--  Questions? Open a [Discussion](https://github.com/yourusername/podcast-translator/discussions)
+- Report bugs via [GitHub Issues](https://github.com/koenvdheide/podcast-translator/issues)
+- Questions? Open a [Discussion](https://github.com/koenvdheide/podcast-translator/discussions)

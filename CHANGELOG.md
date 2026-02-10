@@ -30,8 +30,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Documentation
 - Comprehensive README with quick start guide
-- Full documentation in README_podcast_translator.md
-- Quick start guide in QUICK_START.md
 - Command-line help and usage examples
 - Troubleshooting guide
 
@@ -50,4 +48,4 @@ This is the first public release of the Podcast Translation Pipeline.
 
 ---
 
-[1.0.0]: https://github.com/yourusername/podcast-translator/releases/tag/v1.0.0
+[1.0.0]: https://github.com/koenvdheide/podcast-translator/releases/tag/v1.0.0
