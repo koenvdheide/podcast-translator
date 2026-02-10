@@ -1,0 +1,11 @@
+# Core dependencies
+requests>=2.31.0
+
+# Speaker diarization
+pyannote.audio>=2.1.0
+
+# Optional: Local Whisper (recommended for large files like this 88MB podcast)
+# Uncomment if you want to run Whisper locally:
+# openai-whisper>=20231117
+# torch>=2.0.0
+# ffmpeg-python>=0.2.0
